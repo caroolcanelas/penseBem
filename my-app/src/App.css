@@ -16,7 +16,6 @@
   width: 90%;
   height: 75px;
   border: black 1px solid;
-
   font-family: courier new;
   font-size: 30pt;
   font-weight: bold;
@@ -25,7 +24,7 @@
   text-align: center;
 }
 
-#visor1 {
+#visor2 {
   width: 90%;
   height: 25px;
   border: black 1px solid;
