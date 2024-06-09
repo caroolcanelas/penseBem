@@ -1,0 +1,70 @@
+.App {
+  text-align: center;
+  background-color: #cccccc;
+}
+
+.App-header {
+  background-color: #3865c0;
+  width: 93%;
+  max-width: 300px;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+}
+
+#visor1 {
+  width: 90%;
+  height: 75px;
+  border: black 1px solid;
+
+  font-family: courier new;
+  font-size: 30pt;
+  font-weight: bold;
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+
+#visor1 {
+  width: 90%;
+  height: 25px;
+  border: black 1px solid;
+  font-family: courier new;
+  font-size: 15pt;
+  font-weight: bold;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+#botaoA,
+#botaoB,
+#botaoC,
+#botaoD {
+  width: 45%;
+  height: 100px;
+  background-color: red;
+  border: black 1px solid;
+  font-size: 24pt;
+  color: white;
+}
+
+#botaoB {
+  background-color: yellow;
+}
+
+#botaoC {
+  background-color: blue;
+}
+
+#botaoD {
+  background-color: green;
+}
+
+#botaoStart {
+  width: 90%;
+  height: 25px;
+  border: black 1px solid;
+  background-color: #cccccc;
+  font-size: 11pt;
+}
